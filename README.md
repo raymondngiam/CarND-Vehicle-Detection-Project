@@ -67,7 +67,7 @@ $ source deactivate vehicle-detection
 
 ### How to run
 
-Download the [vehicle data](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip), [non-vehicle data](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip) and [addon data](https://github.com/raymondngiam/CarND-Vehicle-Detection-Project/blob/master/addon.zip) and extract the image directories to the path `./`
+Extract image directories in `vehicle.zip`, `non-vehicles.zip` and `addon.zip` to the path `./`
 
 You can step then through the Jupyter Notebook at [notebook.ipynb](https://github.com/raymondngiam/CarND-Vehicle-Detection-Project/blob/master/notebook.ipynb).
 
